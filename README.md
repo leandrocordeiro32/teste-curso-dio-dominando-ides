@@ -1,11 +1,13 @@
 # teste-curso-dio-dominando-ides
 teste intellij
 Atalhos do IntelliJ Idea
-Atalhos do IntelliJ Idea
+
 Geral
 
 Alt + 1: Focar aba de projetos
+
 Alt + Shift + Insert: Alterna entre modo de seleção de linha/coluna
+
 Ctrl + Shift + F12: Expandir a tela
 
 Na aba de projetos
